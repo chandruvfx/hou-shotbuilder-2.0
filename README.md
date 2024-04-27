@@ -1,6 +1,6 @@
 # hou-shotbuilder-2.0
 
-Improved Another Version of Houdini Shotbuilder 
+Another Version of Houdini Shotbuilder 
 
 
 
